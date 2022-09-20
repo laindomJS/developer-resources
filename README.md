@@ -10,12 +10,14 @@ The repository is divided into sections that represent the usefulness of the too
 - Illustrations
 - Libraries
 - Frameworks
+- APIS
+- DataBases & BaS (Backend as Service)
 
 
 
 ## Resources
 
-#### **Generators**
+### **Generators**
 
 | Name |  URL    | Description                |
 | :-------- | :------- | :------------------------- |
@@ -29,7 +31,7 @@ The repository is divided into sections that represent the usefulness of the too
 
 
 
-#### **Illustrations**
+### **Illustrations**
 
 | Name | URL     | Description                       |
 | :--------  | :------- | :-------------------------------- |
@@ -43,14 +45,14 @@ The repository is divided into sections that represent the usefulness of the too
 | Absurd Design | https://absurd.design | Abstract/absurd style illustrations |
 
 
-#### **Frameworks**
+### **Frameworks**
 
 | Name | URL     | Description                       |
 | :--------  | :------- | :-------------------------------- |
-| PicoCSS    | https://notioly.com/ | Lightweight and simple framework of semantic styles |
-| LuxaCSS | https://blush.design/collections/open-peeps/open-peeps | Simple yet robust CSS framework for prototyping or developing simple applications |
-| NesCSS | https://www.manypixels.co/gallery| CSS styling framework inspired by the NES console UI |
-| PSOneCSS | https://control.rocks/ | CSS framework inspired by the UI of the PlayStation One console |
+| PicoCSS    | https://picocss.com | Lightweight and simple framework of semantic styles |
+| LuxaCSS | https://luxacss.com | Simple yet robust CSS framework for prototyping or developing simple applications |
+| NesCSS | https://nostalgic-css.github.io/NES.css/ | CSS styling framework inspired by the NES console UI |
+| PSOneCSS | https://98mprice.github.io/PSone.css/ | CSS framework inspired by the UI of the PlayStation One console |
 | Vest | https://vestjs.dev/ | Framework for form validation in React |
 | React Hook Form | https://react-hook-form.com | Framework for controlling forms in React through simple hooks |
 | SolidJS | https://www.solidjs.com/ | Reactive, simple, React-based library for UI development |
@@ -58,13 +60,13 @@ The repository is divided into sections that represent the usefulness of the too
 | FreshJS | https://fresh.deno.dev/| Framework based on Just-In-Time rendering, without a build step and with native TypeScript support |
 
 
-#### **Libraries**
+### **Libraries**
 
 | Name | URL     | Description                       |
 | :--------  | :------- | :-------------------------------- |
-| ChakraUI | https://icons8.com/illustrations | Component-Based Styling library for React Apps |
-| Ant Design | https://undraw.co/illustrations | Library of styles and visual tools for applications made with React |
-| Framer Motion | https://www.shapefest.com | Production-optimized animation library for React apps |
-| motion.dev | https://absurd.design | Animation library built with WEB API's for web applications made with vanilla technologies |
+| ChakraUI | https://chakra-ui.com | Component-Based Styling library for React Apps |
+| Ant Design | https://ant.design | Library of styles and visual tools for applications made with React |
+| Framer Motion | https://www.framer.com/motion/ | Production-optimized animation library for React apps |
+| motion.dev | https://motion.dev | Animation library built with WEB API's for web applications made with vanilla technologies |
 
 
