@@ -6,6 +6,7 @@ This repository is a compilation of multiple tools and libraries that a develope
 The repository is divided into sections that represent the usefulness of the tools, to have a specific order.
 ## Sections
 
+- Visual Studio Code Extensions
 - Generators
 - Illustrations
 - Libraries
@@ -16,6 +17,19 @@ The repository is divided into sections that represent the usefulness of the too
 
 
 ## Resources
+
+
+### **VSCode Extensions**
+
+| Name |  URL    | Description                |
+| :-------- | :------- | :------------------------- |
+| Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens | See error inline while you programming |
+| Version Lens | https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens | See the version of the dependencie inline |
+| Prettier | https://prettier.io | Format your code with your prefer configuration |
+| ESLint | https://eslint.org | A linter for your JS code |
+| Template Strings Converter | https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter | Convert the literal string in a template string typing '${' |
+| Thunder Client | https://www.thunderclient.com | Lightweight client for REST API's in VSCode
+
 
 ### **Generators**
 
