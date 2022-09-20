@@ -71,3 +71,12 @@ The repository is divided into sections that represent the usefulness of the too
 | motion.dev | https://motion.dev | Animation library built with WEB API's for web applications made with vanilla technologies |
 
 
+### **DataBases & BaS**
+
+| Name | URL     | Description                       |
+| :--------  | :------- | :-------------------------------- |
+| LowDB | https://github.com/typicode/lowdb | Locale JSON DB for simple and little applications |
+| Json Server | https://github.com/typicode/json-server | Full Fake REST API with zero coding |
+| Firebase | https://firebase.google.com/ | Backend as Service by Google for Full-Stack applications |
+| Supabase | https://supabase.com | Open Source alternative for Firebase |
+| PocketBase | https://pocketbase.io | Open Source Backend as Service in one file for Little and Medium Apps |
