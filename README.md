@@ -73,6 +73,7 @@ The repository is divided into sections that represent the usefulness of the too
 | SolidJS | https://www.solidjs.com/ | Reactive, simple, React-based library for UI development |
 | Qwik | https://qwik.builder.io/ | Framework for optimized web development with zero hydration and reduced rendering |
 | FreshJS | https://fresh.deno.dev/| Framework based on Just-In-Time rendering, without a build step and with native TypeScript support |
+| KoaJS | https://koajs.com | Framework created by the team behind Express. Is small, expressive and scalable for robust web apps and APIS |
 
 
 ### **Libraries**
