@@ -76,6 +76,43 @@ The repository is divided into sections that represent the usefulness of the too
 | KoaJS | https://koajs.com | Framework created by the team behind Express. Is small, expressive and scalable for robust web apps and APIS |
 
 
+### APIS
+
+| Name |  URL    | Description                |
+| :-------- | :------- | :------------------------- |
+| AnimeChan | https://animechan.vercel.app | A free rest API for anime quotes |
+| Amethyste | https://api.amethyste.moe| Generate images for Discord users |
+| ColorMind | http://colormind.io/api-access/ | Color scheme generator |
+| MojoAuth | https://mojoauth.com | Secure and modern passwordless authentication platform |
+| File.io| https://www.file.io | Super simple file sharing, convenient, anonymous and secure |
+| Google Drive | https://developers.google.com/drive/ | File Sharing and Storage |
+| Storj | https://docs.storj.io/dcs/ | Decentralized Open-Source Cloud Storage |
+| Coin Gecko | https://www.coingecko.com/en/api | API for see data for the actual cryptocurrencies |
+| Excuser | https://excuser.herokuapp.com | A simple excuse generator. It's a simple API that allows you to get a random excuse |
+| Carbon Interface | https://docs.carboninterface.com/#/ | Know the Co2 Emitions in real time |
+| AmiiboAPI | https://amiiboapi.com | An Amiibo database that holds all amiibo information in a single API. |
+| Animal Crossing: New Horizons API | http://acnhapi.com | Database of the popular game of Nintendo. |
+| IP Geolocation API | https://www.abstractapi.com/api/ip-geolocation-api | Localize the visitants with their IP. |
+| REST Countries API | https://restcountries.com | A RESTful API of Countries. |
+| CMS.gov | https://data.cms.gov/provider-data/ | Access to the data from the CMS - medicare.gov |
+| Covid-19 API | https://covid19api.com | Covid 19 spread, infection and recovery	 |
+| Infermedica | https://developer.infermedica.com/docs/introduction | NLP based symptom checker and patient triage API for health diagnosis from text |
+| BandCamp API | https://bandcamp.com/developer | Music from BandCamp storage |
+| LastFM API | https://www.last.fm/api | Music |
+| Napster API | https://developer.prod.napster.com | Music |
+| Spotify API | https://developer.spotify.com/documentation/web-api/ | Music |
+| Currents API | https://currentsapi.services/en | News |
+| New York Times API | https://developer.nytimes.com | News |
+| NewsData | https://newsdata.io/docs | News |
+| Advice Slip API | https://api.adviceslip.com | Generate a random advice |
+| Forismatic | http://forismatic.com/en/api/ | Generate a random optimist quote |
+| Giphy API | https://developers.giphy.com/docs/sdk | The API of Giphy |
+| Hackerearth | https://www.hackerearth.com/docs/wiki/developers/v4/ | Compile to any programming language |
+| SpaceX API | https://github.com/r-spacex/SpaceX-API | API of the SpaceX  |
+| Breaking Bad API | https://breakingbadapi.com/documentation | API of the Breaking Bad Series |
+| AccuWeather | https://developer.accuweather.com/apis | Weather API |
+
+
 ### **Libraries**
 
 | Name | URL     | Description                       |
