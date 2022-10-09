@@ -43,6 +43,8 @@ The repository is divided into sections that represent the usefulness of the too
 | Haikei | https://app.haikei.app/ | SVG Element Builder and Editor |
 | CSS Layout Generator | https://layout.bradwoods.io/ | A layout generator with CSS |
 | README Generator | https://readme.so/es | Generator of README files |
+| Css-doodle | https://css-doodle.com | A web component for drawing patterns with CSS |
+| Visiwig | https://www.visiwig.com | That elevate your website and brand visuals |
 
 
 
