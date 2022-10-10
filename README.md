@@ -1,9 +1,10 @@
 
 ## Developers Resources
 
-This repository is a compilation of multiple tools and libraries that a developer might need. Some I have used and others have seemed interesting and important.
+This repository is a compendium of interesting tools, libraries and frameworks for web developers (mainly FrontEnd).
 
 The repository is divided into sections that represent the usefulness of the tools, to have a specific order.
+
 ## Sections
 
 - Visual Studio Code Extensions
@@ -23,8 +24,8 @@ The repository is divided into sections that represent the usefulness of the too
 
 | Name |  URL    | Description                |
 | :-------- | :------- | :------------------------- |
-| Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens | See error inline while you programming |
-| Version Lens | https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens | See the version of the dependencie inline |
+| Error Lens | https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens | See error inline while programming |
+| Version Lens | https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens | Look at the dependency inline |
 | Prettier | https://prettier.io | Format your code with your prefer configuration |
 | ESLint | https://eslint.org | A linter for your JS code |
 | Template Strings Converter | https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter | Convert the literal string in a template string typing '${' |
@@ -37,9 +38,10 @@ The repository is divided into sections that represent the usefulness of the too
 | :-------- | :------- | :------------------------- |
 | QR Code Monkey | https://www.qrcode-monkey.com/es | A QR code generator |
 | SplitJS | https://split.js.org/ | Split UI generator with JS |
-| Generated Photos | https://generated.photos/ | Photo generator that uses AI for the creation of its images |
+| Generated Photos | https://generated.photos/ | Photo generator that uses AI for the creation of images |
 | Colormind | http://colormind.io/ | Color palettes generated using AI |
 | Buttons Generator | https://markodenic.com/tools/buttons-generator/ | CSS button generator made by marcodenic |
+| Buttons Generator | https://buttons-generator-laints.vercel.app | CSS button generator made by lain_ts |
 | Haikei | https://app.haikei.app/ | SVG Element Builder and Editor |
 | CSS Layout Generator | https://layout.bradwoods.io/ | A layout generator with CSS |
 | README Generator | https://readme.so/es | Generator of README files |
@@ -50,7 +52,7 @@ The repository is divided into sections that represent the usefulness of the too
 
 | Name | URL     | Description                       |
 | :--------  | :------- | :-------------------------------- |
-| Notioly    | https://notioly.com/ | Notioly style illustrations |
+| Notioly    | https://notioly.com/ | Notion style illustrations |
 | OpeenPeeps | https://blush.design/collections/open-peeps/open-peeps | Customizable and exportable illustrations |
 | ManyPixels | https://www.manypixels.co/gallery| Illustration Gallery |
 | Control Illustration | https://control.rocks/ | Gallery of customizable illustrations |
@@ -74,6 +76,7 @@ The repository is divided into sections that represent the usefulness of the too
 | Qwik | https://qwik.builder.io/ | Framework for optimized web development with zero hydration and reduced rendering |
 | FreshJS | https://fresh.deno.dev/| Framework based on Just-In-Time rendering, without a build step and with native TypeScript support |
 | KoaJS | https://koajs.com | Framework created by the team behind Express. Is small, expressive and scalable for robust web apps and APIS |
+| Astro | https://astro.build | All-in-one framework for content-focused web application developers |
 
 
 ### APIS
